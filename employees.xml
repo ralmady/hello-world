@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee id="e1">
+		<name>Balla Tibor</name>
+		<age>33</age>
+		<gender>male</gender>
+		<role>Java Developer</role>
+	</employee>
+	<employee id="e2">
+		<name>Tank Aranka</name>
+		<age>23</age>
+		<gender>female</gender>
+		<role>Java Developer</role>
+	</employee>
+	<employee id="e3">
+		<name>Para Zita</name>
+		<age>55</age>
+		<gender>male</gender>
+		<role>CEO</role>
+	</employee>
+	<employee id ="e4">
+		<name>Végh Béla</name>
+		<age>38</age>
+		<gender>male</gender>
+		<role>Manager</role>	
+	</employee>
+</employees>
